@@ -3,7 +3,7 @@
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [](https://codeforces.com/profile/) | 2433 |
+| Codeforces | [](https://codeforces.com/profile/imalamin) | 106 |
 | CodeChef | [](https://www.codechef.com/users/) | 314 |
 | AtCoder | [](https://atcoder.jp/users/) | 221 |
 | SPOJ | [](https://www.spoj.com/users/) | 172 | 
@@ -18,4 +18,4 @@
 | TOKI | [](https://tlx.toki.id/profiles) | 22 |
 | Total | |  |
 
-Last Updated: 25 may, 2022
+Last Updated: 24 june, 2022
